@@ -1,0 +1,4 @@
+#Sun Apr 14 17:10:36 PDT 2024
+base.0=C\:\\Users\\Bhargav Krishna\\Desktop\\Assignment 5\\Auditlogprompts\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

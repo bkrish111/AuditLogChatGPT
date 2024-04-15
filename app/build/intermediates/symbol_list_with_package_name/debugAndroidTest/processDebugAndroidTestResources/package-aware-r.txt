@@ -1,0 +1,3 @@
+com.example.auditlogpromptsandresponses.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
